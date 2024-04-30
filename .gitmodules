@@ -1,3 +1,9 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/poroshinleonid/libft
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/poroshinleonid/minishell
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/poroshinleonid/cub3d
